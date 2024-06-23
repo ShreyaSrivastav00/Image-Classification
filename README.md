@@ -17,3 +17,6 @@ This repository contains a Flask application that allows users to upload an imag
 4. After selecting the image file, click on the "Upload" button to submit the form.
 5. The application will preprocess the uploaded image, extract features, and predict the class using the trained model.
 6. The predicted class will be displayed on the page.
+
+
+![Demo](demo.png)
